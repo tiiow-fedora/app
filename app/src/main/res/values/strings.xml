@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SMB Image Viewer</string>
+    <string name="image_content_description">SMB image</string>
+    <string name="error_loading_images">Unable to load images from the SMB share.</string>
+</resources>
